@@ -1,4 +1,9 @@
-## Hi there 👋
+Prolincur is a technology solution provider in geometric modeling (CAD), 3D visualization, geospatial technologies. 
+
+- 🔭 In case you are passionate about 3D
+- 👋 We may explore opportunities to collaborate
+- 💬 Check if we are recruiting 
+
 
 <!--
 
